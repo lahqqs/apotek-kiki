@@ -12,18 +12,18 @@
   </thead>
   <tbody>
     <tr>
-      <td>Mark</td>
-      <td>Mark@gmail.com</td>
+      <td>kiki</td>
+      <td>kiki@gmail.com</td>
       <td>Pemilik</td>
     </tr>
     <tr>
-      <td>Otto</td>
-      <td>Otto@gmail.com</td>
+      <td>idaw</td>
+      <td>idawo@gmail.com</td>
       <td>Apoteker</td>
     </tr>
     <tr>
-      <td>Bima</td>
-      <td>Bima@gmail.com</td>
+      <td>caca</td>
+      <td>caca@gmail.com</td>
       <td>Gudang</td>
     </tr>
     <tr>
