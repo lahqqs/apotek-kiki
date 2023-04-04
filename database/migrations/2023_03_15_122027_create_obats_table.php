@@ -22,7 +22,7 @@ return new class extends Migration
             $table->string('satuan');
             $table->string('golongan');
             $table->string('kemasan');
-            $table->float('harga_jual', 8, 2);
+            $table->integer('harga_jual');
             $table->integer('stok');
             $table->timestamps();
         });

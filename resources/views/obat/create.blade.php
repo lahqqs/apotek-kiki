@@ -78,7 +78,7 @@
                             @enderror
                         </div>
                         <div class="form-group row">
-                            <input type="text" class="form-control @error('harga_jual') is-invalid @enderror" name="harga_jual" id="harga_jual" placeholder="harga_jual *">
+                            <input type="number" class="form-control @error('harga_jual') is-invalid @enderror" name="harga_jual" id="harga_jual" placeholder="harga_jual *">
                             @error('harga_jual')
                             <div id="harga_jual" class="invalid-feedback mb-3">
                                 {{$message}}
